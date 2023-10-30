@@ -1,0 +1,87 @@
+.e26_186 { 
+	overflow:hidden;
+}
+.e26_186 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1072px;
+	height:1447px;
+	position:absolute;
+	background-image:url(images/pag_cadastroprof.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e26_187 { 
+	background-color:rgba(22.000000588595867, 48.000000938773155, 73.00000324845314, 1);
+	width:1072px;
+	height:78px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e26_188 { 
+	color:rgba(255, 255, 255, 1);
+	width:77px;
+	height:42px;
+	position:absolute;
+	left:826px;
+	top:23px;
+	font-family:Lalezar;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.e26_189 { 
+	color:rgba(255, 255, 255, 1);
+	width:64px;
+	height:42px;
+	position:absolute;
+	left:945px;
+	top:23px;
+	font-family:Lalezar;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.e26_190 { 
+	color:rgba(255, 255, 255, 1);
+	width:140px;
+	height:42px;
+	position:absolute;
+	left:21px;
+	top:23px;
+	font-family:Lalezar;
+	text-align:left;
+	font-size:27px;
+	letter-spacing:0;
+}
+.e26_191 { 
+	width:818px;
+	height:978px;
+	position:absolute;
+	left:127px;
+	top:213px;
+}
+.e26_192 { 
+	background-color:rgba(13.000000175088644, 108.00000116229057, 139.0000069141388, 1);
+	width:818px;
+	height:978px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:64px;
+	border-top-right-radius:64px;
+	border-bottom-left-radius:64px;
+	border-bottom-right-radius:64px;
+}
+.e26_193 { 
+	color:rgba(255, 255, 255, 1);
+	width:327px;
+	height:40px;
+	position:absolute;
+	left:373px;
+	top:243px;
+	font-family:Lalezar;
+	text-align:left;
+	font-size:35px;
+	letter-spacing:0;
+}
